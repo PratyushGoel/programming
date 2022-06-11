@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# IO Reader files
+input.txt
+output.txt
